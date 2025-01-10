@@ -1,0 +1,44 @@
+{
+  "stars": [
+    {
+      "id": 1,
+      "title": "Sirius",
+      "description": "A estrela mais brilhante no céu noturno, localizada na constelação de Cão Maior.",
+      "distance": "8.6 anos-luz",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCGufIYp0SzsDvWraCOKLmzKF9M_vkBUvWg&s",
+      "type": "Main Sequence (A1V)"
+    },
+    {
+      "id": 2,
+      "title": "Betelgeuse",
+      "description": "Uma supergigante vermelha que marca o ombro da constelação de Órion.",
+      "distance": "642 anos-luz",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2020/10/20201016040503.jpg",
+      "type": "Red Supergiant"
+    },
+    {
+      "id": 3,
+      "title": "Proxima Centauri",
+      "description": "A estrela mais próxima do Sol, parte do sistema Alfa Centauri.",
+      "distance": "4.24 anos-luz",
+      "image": "https://dq0hsqwjhea1.cloudfront.net/ProximaFlare-1000px.jpg",
+      "type": "Red Dwarf (M5.5V)"
+    },
+    {
+      "id": 4,
+      "title": "Vega",
+      "description": "Uma das estrelas mais brilhantes do céu, localizada na constelação de Lira.",
+      "distance": "25 anos-luz",
+      "image": "https://dq0hsqwjhea1.cloudfront.net/Vega-Stephen-Rahn-Wiki-CC-0-S.jpg",
+      "type": "Main Sequence (A0V)"
+    },
+    {
+      "id": 5,
+      "title": "Polaris",
+      "description": "Também conhecida como Estrela do Norte, é uma estrela supergigante amarela.",
+      "distance": "323 anos-luz",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fst__wfDKODT7SeExpqMdHtYS2-owO76Cg&s",
+      "type": "Yellow Supergiant (F7Ib)"
+    }
+  ]
+}

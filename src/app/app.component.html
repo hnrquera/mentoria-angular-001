@@ -1,0 +1,21 @@
+<div class="p-3 sm:p-6">
+  <app-navbar></app-navbar>
+
+  <div class="title mt-6">
+    <h1 class="text-3xl text-center">Astro</h1>
+  </div>
+
+  <div class="mt-4 grid grid-cols-1 sm:grid-cols-4 gap-y-4 sm:gap-4">
+    <div class="col-span-1 sm:col-span-3">
+      @for (star of stars$ | async; track $index) {
+        <app-astro-card [star]="star"></app-astro-card>
+      }
+    </div>
+
+    <div class="col-span-1">
+      <app-astro-chat-bot></app-astro-chat-bot>
+    </div>
+  </div>
+
+
+</div>
